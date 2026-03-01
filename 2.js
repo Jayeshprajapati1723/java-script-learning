@@ -120,7 +120,7 @@ else if (scr >= 60) {
 else if (scr >= 40) {
         console.log("D-grade") ;
 }
-else if (scr < 40 || scr >=33) {
+else if (scr < 40 && scr >=33) {
         console.log("DD-grade") ;
 }
 else if (scr < 33) {
