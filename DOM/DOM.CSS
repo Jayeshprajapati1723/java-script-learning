@@ -1,0 +1,20 @@
+h1{
+    COLOR:RED;
+}
+h2{
+    COLOR: black ;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.heading {
+    color : green ;
+}
+
+.box {
+    height: 100;
+    letter-spacing: 1500;
+    color : red ;
+}
