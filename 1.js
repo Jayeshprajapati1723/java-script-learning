@@ -41,7 +41,7 @@ console.log (student.isStudent) ;
 student["age"] = student ["age"] +1 ;
 console.log(student["age"]) ;
 
-// practice 1
+// practice 1 create a object for product 
 const product = {
     title : "pen" , Mrp : 20 , sp : 18 , discout : 2 , isdeal : true , rating : "****/5*" 
 }
