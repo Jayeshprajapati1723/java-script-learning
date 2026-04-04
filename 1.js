@@ -1,3 +1,10 @@
+// git command :-
+// git  clone "link to repo"
+// git add . ,, git add "file name"
+// git commit -m "message to commit"
+// git push origin main --> local -> Remote
+
+
 // this is my journey of java script 
 // so we start with very basics
 console.log ("github") ;
